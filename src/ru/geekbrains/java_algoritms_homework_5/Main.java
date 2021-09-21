@@ -1,4 +1,12 @@
-package ru.geekbrains.java_algoritms_homework_5;
+/* Алгоритмы и структуры данных на Java
+Практическое задание к лекции № 5
+Кононов Леонид Александрович
+Согласно заданию, в программе реализовано:
+1. Программа по возведению числа в степень с использованием рекурсии;
+2. Программа "Задача о рюкзаке" с помощью рекурсии.
+*/
+
+        package ru.geekbrains.java_algoritms_homework_5;
 
 import java.util.ArrayList;
 import java.util.Arrays;
